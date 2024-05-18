@@ -1,0 +1,73 @@
+.ruthu1{
+    border: 2px solid rgb(12, 11, 12);
+    height: 40px;
+    width: 200px;
+    background-color: rgb(249, 61, 152);
+    color: aliceblue;
+}
+fieldset{
+    
+    border: 3px solid rgb(12, 11, 12);
+    height: 400px;
+    width: 500px;
+    background:linear-gradient(rgb(212, 61, 61),orange,yellow,green,rgb(94, 183, 207),rgb(93, 0, 255),purple);
+}
+ .ruthu2{
+    
+    border: 2px solid rgb(230, 144, 181);
+    height: 40px;
+    width: 200px;
+    background-color: chartreuse;
+    margin-right: 200px;
+
+ }
+ .ruthu3{
+    
+    border: 2px solid rgb(230, 144, 181);
+    height: 40px;
+    width: 200px;
+    background-color: chartreuse;
+    margin-right: 200px;
+ }
+.ruthu4{
+    
+    border: 2px solid rgb(230, 144, 181);
+    height: 40px;
+    width: 200px;
+    background-color: chartreuse;
+    margin-right: 200px;
+}
+.ruthu5{
+    
+    border: 2px solid rgb(230, 144, 181);
+    height: 40px;
+    width: 200px;
+    background-color: chartreuse;
+    margin-right: 200px;
+}
+.ruthu6{
+    
+    border: 2px solid rgb(230, 144, 181);
+    height: 40px;
+    width: 300px;
+    background-color: rgb(150, 233, 67);
+    font-size:medium;
+    margin-right: 180px;
+
+}   
+div{
+    border: 2px solid rgb(133, 61, 154);
+    height: 320px;
+    width: 450px;
+    background-color: rgb(137, 196, 244);
+    font-size:medium;
+} 
+img{
+    border: 2px solid rgb(31, 204, 184);
+    height: 150px;
+    width: 200px;
+    clip-path: ellipse(50% 40%);
+    position: absolute;
+    margin-top: -270px;
+    margin-left: 20px;
+}
